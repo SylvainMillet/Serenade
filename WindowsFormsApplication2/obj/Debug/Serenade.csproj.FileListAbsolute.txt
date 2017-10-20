@@ -1,0 +1,147 @@
+c:\users\kira_msi\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\kira_msi\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\kira_msi\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\kira_msi\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Serenade.csprojResolveAssemblyReference.cache
+c:\users\kira_msi\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Accueil.resources
+c:\users\kira_msi\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Gestion_client.resources
+c:\users\kira_msi\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\kira_msi\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Serenade.csproj.GenerateResource.Cache
+c:\users\kira_msi\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\kira_msi\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\kira_MSI\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form_Activite.resources
+C:\Users\kira_MSI\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\mysql.data.dll
+C:\Users\kira_MSI\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ProfilPoste_creer.resources
+C:\Users\Julie\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Julie\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Julie\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Julie\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Serenade.csprojResolveAssemblyReference.cache
+C:\Users\Julie\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Accueil.resources
+C:\Users\Julie\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form_Activite.resources
+C:\Users\Julie\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Collaborateur_creer.resources
+C:\Users\Julie\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Gestion_client.resources
+C:\Users\Julie\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ProfilPoste_creer.resources
+C:\Users\Julie\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Julie\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Serenade.csproj.GenerateResource.Cache
+C:\Users\Julie\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Julie\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Julie\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Poste_creer.resources
+F:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+F:\EII\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+F:\EII\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+F:\EII\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+F:\EII\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+F:\EII\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+F:\EII\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Serenade.csprojResolveAssemblyReference.cache
+F:\EII\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Accueil.resources
+F:\EII\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form_Activite.resources
+F:\EII\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Collaborateur_creer.resources
+F:\EII\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Explorer.resources
+F:\EII\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Poste_creer.resources
+F:\EII\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ProfilPoste_creer.resources
+F:\EII\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\EII\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Serenade.csproj.GenerateResource.Cache
+F:\EII\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Menu.resources
+F:\EII\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Manipulate.resources
+E:\EII\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\EII\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\EII\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\EII\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\EII\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\EII\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Serenade.csprojResolveAssemblyReference.cache
+E:\EII\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Collaborateur_creer.resources
+E:\EII\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Explorer.resources
+E:\EII\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Manipulate.resources
+E:\EII\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Menu.resources
+E:\EII\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Poste_creer.resources
+E:\EII\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ProfilPoste_creer.resources
+E:\EII\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\EII\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Serenade.csproj.GenerateResource.Cache
+E:\EII\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Emploi_creer.resources
+E:\EII\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Portefeuille_creer.resources
+E:\EII\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Orphan.resources
+E:\EII\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Activite_creer.resources
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Serenade.csprojResolveAssemblyReference.cache
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Serenade.csproj.GenerateResource.Cache
+C:\Users\Robin\Downloads\WindowsFormsApplication2-2015-02-09\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Robin\Downloads\WindowsFormsApplication2-2015-02-09\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Robin\Downloads\WindowsFormsApplication2-2015-02-09\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Robin\Downloads\WindowsFormsApplication2-2015-02-09\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Robin\Downloads\WindowsFormsApplication2-2015-02-09\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Robin\Downloads\WindowsFormsApplication2-2015-02-09\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\mysql.data.dll
+C:\Users\Robin\Downloads\WindowsFormsApplication2-2015-02-09\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Serenade.csprojResolveAssemblyReference.cache
+C:\Users\Robin\Downloads\WindowsFormsApplication2-2015-02-09\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Activite_creer.resources
+C:\Users\Robin\Downloads\WindowsFormsApplication2-2015-02-09\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Collaborateur_creer.resources
+C:\Users\Robin\Downloads\WindowsFormsApplication2-2015-02-09\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Emploi_creer.resources
+C:\Users\Robin\Downloads\WindowsFormsApplication2-2015-02-09\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Explorer.resources
+C:\Users\Robin\Downloads\WindowsFormsApplication2-2015-02-09\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Manipulate.resources
+C:\Users\Robin\Downloads\WindowsFormsApplication2-2015-02-09\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Menu.resources
+C:\Users\Robin\Downloads\WindowsFormsApplication2-2015-02-09\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Orphan.resources
+C:\Users\Robin\Downloads\WindowsFormsApplication2-2015-02-09\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Portefeuille_creer.resources
+C:\Users\Robin\Downloads\WindowsFormsApplication2-2015-02-09\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Poste_creer.resources
+C:\Users\Robin\Downloads\WindowsFormsApplication2-2015-02-09\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ProfilPoste_creer.resources
+C:\Users\Robin\Downloads\WindowsFormsApplication2-2015-02-09\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Robin\Downloads\WindowsFormsApplication2-2015-02-09\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Serenade.csproj.GenerateResource.Cache
+C:\Users\Sylvain\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Sylvain\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Sylvain\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Sylvain\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Sylvain\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Sylvain\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Serenade.csprojResolveAssemblyReference.cache
+C:\Users\Sylvain\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Activite_creer.resources
+C:\Users\Sylvain\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Collaborateur_creer.resources
+C:\Users\Sylvain\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Emploi_creer.resources
+C:\Users\Sylvain\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Explorer.resources
+C:\Users\Sylvain\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Manipulate.resources
+C:\Users\Sylvain\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Menu.resources
+C:\Users\Sylvain\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Orphan.resources
+C:\Users\Sylvain\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Portefeuille_creer.resources
+C:\Users\Sylvain\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Poste_creer.resources
+C:\Users\Sylvain\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ProfilPoste_creer.resources
+C:\Users\Sylvain\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Sylvain\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Serenade.csproj.GenerateResource.Cache
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Serenade.exe.config
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Serenade.Properties.Resources.resources
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Serenade.exe.manifest
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Serenade.application
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Serenade.exe
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Serenade.pdb
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Serenade.Activite_creer.resources
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Serenade.Collaborateur_creer.resources
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Serenade.Emploi_creer.resources
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Serenade.Explorer.resources
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Serenade.Manipulate.resources
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Serenade.Menu.resources
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Serenade.Orphan.resources
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Serenade.Portefeuille_creer.resources
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Serenade.Poste_creer.resources
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Serenade.ProfilPoste_creer.resources
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Serenade.TrustInfo.xml
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Serenade.exe.manifest
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Serenade.application
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Serenade.exe
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Serenade.pdb
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\Serenade\WindowsFormsApplication2\bin\Debug\Serenade.exe.config
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\Serenade\WindowsFormsApplication2\obj\Debug\Serenade.exe
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\Serenade\WindowsFormsApplication2\obj\Debug\Serenade.pdb
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\Serenade\WindowsFormsApplication2\bin\Debug\Serenade.exe.manifest
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\Serenade\WindowsFormsApplication2\bin\Debug\Serenade.application
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\Serenade\WindowsFormsApplication2\bin\Debug\Serenade.exe
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\Serenade\WindowsFormsApplication2\bin\Debug\Serenade.pdb
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\Serenade\WindowsFormsApplication2\obj\Debug\Serenade.csprojResolveAssemblyReference.cache
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\Serenade\WindowsFormsApplication2\obj\Debug\Serenade.Activite_creer.resources
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\Serenade\WindowsFormsApplication2\obj\Debug\Serenade.Collaborateur_creer.resources
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\Serenade\WindowsFormsApplication2\obj\Debug\Serenade.Emploi_creer.resources
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\Serenade\WindowsFormsApplication2\obj\Debug\Serenade.Explorer.resources
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\Serenade\WindowsFormsApplication2\obj\Debug\Serenade.Manipulate.resources
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\Serenade\WindowsFormsApplication2\obj\Debug\Serenade.Menu.resources
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\Serenade\WindowsFormsApplication2\obj\Debug\Serenade.Orphan.resources
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\Serenade\WindowsFormsApplication2\obj\Debug\Serenade.Portefeuille_creer.resources
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\Serenade\WindowsFormsApplication2\obj\Debug\Serenade.Poste_creer.resources
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\Serenade\WindowsFormsApplication2\obj\Debug\Serenade.ProfilPoste_creer.resources
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\Serenade\WindowsFormsApplication2\obj\Debug\Serenade.Properties.Resources.resources
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\Serenade\WindowsFormsApplication2\obj\Debug\Serenade.csproj.GenerateResource.Cache
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\Serenade\WindowsFormsApplication2\obj\Debug\Serenade.TrustInfo.xml
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\Serenade\WindowsFormsApplication2\obj\Debug\Serenade.exe.manifest
+C:\Users\Sylvain\Documents\Visual Studio 2013\Projects\Serenade\WindowsFormsApplication2\obj\Debug\Serenade.application
